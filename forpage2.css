@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+}
+.Head {
+    font-family: 'Mali', cursive;
+    text-align: center;
+    line-height: 1.8;
+    padding: 30px;
+    font-size: 28px;
+}
+.Main {
+    font-family: 'Mali', cursive;
+    text-align: center;
+    line-height: 1.8;
+    padding: 30px;
+    font-size: 28px;
+    border: 1px solid rgb(177, 100, 0);
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 40px;
+}
